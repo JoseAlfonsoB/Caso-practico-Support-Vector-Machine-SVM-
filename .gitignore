@@ -83,3 +83,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 DataSetZZZ/
+cv_env/
+cv_env3/
+./prueba_instalacion.py
+./version-cv.py
